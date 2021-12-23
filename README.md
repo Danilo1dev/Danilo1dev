@@ -18,8 +18,7 @@
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Rafa-Js" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Rafa-Js" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
+    
 </div>
   
   ##
