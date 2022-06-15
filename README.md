@@ -1,6 +1,6 @@
 ### Ei, Tudo bem com você? Eu sou o Danilo 👋
 
-- 🔭 Hoje trabalho como Engenheiro de Software Java para uma Industria Alimenticia. 
+- 🔭 Hoje trabalho como Engenheiro de Software Java. 
 - 🌱 Sou apaixonado pela Linguagem Java que é a mesma que trabalhado até hoje.
 - 👯 Estou disposto a ajudar novos estudantes que se interessaram pela por esta linguagem de programação.
 - 🤔 Continuo em busca de mais conhecimento no intuito de me aprimorar ainda mais os meus projetos.
@@ -17,7 +17,19 @@
  
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="Rafa-Js" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Danilo-Jv" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Danilo-Git" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+  <img align="center" alt="Danilo-spring" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="Danilo-postgresql" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Danilo-postgresql" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
+  
+  
+            
+
+          
+          
+          
+          
     
 </div>
   
