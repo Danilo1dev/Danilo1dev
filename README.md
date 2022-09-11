@@ -1,10 +1,9 @@
 ### Ei, Tudo bem com você? Eu sou o Danilo 👋
 
-- 🔭 Hoje trabalho como Engenheiro de Software Java. 
+- 🔭 Sou Software Developer Java. 
 - 🌱 Sou apaixonado pela Linguagem Java que é a mesma que trabalhado até hoje.
-- 👯 Estou disposto a ajudar novos estudantes que se interessaram pela por esta linguagem de programação.
 - 🤔 Continuo em busca de mais conhecimento no intuito de me aprimorar ainda mais os meus projetos.
-- 📫 Se precisar falar comigo pode me encontrar aqui mesmo... Então deixe sua mensagem.
+- 📫 Se precisar falar comigo pode me encontrar aqui mesmo ou nas redes abaixo... Então deixe sua mensagem.
 - 😄 Pronouns: Ele
 
 ##
