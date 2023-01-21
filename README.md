@@ -20,8 +20,6 @@
   <img align="center" alt="Danilo-mongodb" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg">
   <img align="center" alt="Danilo-mongodb" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg">
   <img align="center" alt="Danilo-mongodb" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg">
-  <img align="center" alt="Danilo-mongodb" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg">
-  <img align="center" alt="Danilo-mongodb" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg">
   <img align="center" alt="Danilo-mongodb" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   
 </div>
