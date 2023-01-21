@@ -9,10 +9,7 @@
 
 ##
 
-<div align="center">
-  <a href="https://github.com/Danilo1dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo1dev&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+
  
 <div style="display: inline_block"><br>
   
@@ -33,3 +30,9 @@
   <a href="https://instagram.com/danilosilvabnb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 </div>
+  
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Danilo1dev&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Danilo1dev&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Danilo1dev&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danilo1dev&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Danilo1dev&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |  
